@@ -1,11 +1,9 @@
-<!-- INTRODUCTION -->
-
 <h1 align="center">Hi 👋, I'm Nikhil Jha</h1>
 
-<h3 align="center">Java Backend Developer | Full Stack Development | DSA in Java</h3>
+<h3 align="center">Java Full Stack Developer | Aspiring Software Development Engineer</h3>
 
 <p align="center">
-  Computer Science Engineering Student | Aspiring Software Development Engineer
+  Building my skills in Java, Backend Development, and Problem Solving.
 </p>
 
 <p align="center">
@@ -25,32 +23,33 @@
 ## 💫 About Me
 
 * 🎓 B.Tech Computer Science Engineering student at Chandigarh University.
-* ☕ Focused on Java programming and backend development.
-* 🌱 Learning Spring Boot, REST APIs, and Data Structures & Algorithms.
-* 💻 Building projects to improve my software development skills.
-* 🎯 Preparing for Software Development Engineer (SDE) and Java Developer opportunities.
-* 🤝 Open to internships and entry-level software development roles.
-* 📫 Email: **[nikhiljha844@gmail.com](mailto:nikhiljha844@gmail.com)**
+* ☕ Focused on Java Full Stack Development.
+* 🌱 Learning Spring Boot, REST APIs, and backend development.
+* 🧠 Practicing Data Structures & Algorithms in Java.
+* 💻 Building projects to strengthen my programming and problem-solving skills.
+* 🎯 Aspiring Software Development Engineer with an interest in Java Developer roles.
+* 🤝 Open to software development internships and entry-level opportunities.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
-### Programming Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ### Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge" alt="JDBC"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
 </p>
 
 ### Frontend Development
@@ -61,16 +60,11 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
-### Databases
+### Database & Tools
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### Tools & Platforms
-
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
@@ -79,45 +73,42 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### ☕ Java Calculator
 
-A Java-based calculator project built to practice programming fundamentals and basic operations.
+A Java-based calculator application demonstrating programming fundamentals and basic arithmetic operations.
 
 ### 🎓 Student Management System
 
-A Java project focused on managing student information and practising object-oriented programming.
+A Java project focused on student information management and object-oriented programming concepts.
 
 ### 🌐 Edutrack
 
-An educational web application built using web technologies, with a React frontend and Node.js/Express backend.
-
-> More projects and improvements coming soon!
+An educational web application developed to practise full-stack development, frontend integration, and backend functionality.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhiljha12362&show_icons=true&theme=tokyonight&hide_border=true" alt="Nikhil's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhiljha12362&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhiljha12362&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhiljha12362&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikhiljha12362&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Nikhiljha12362&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+<p align="center">
+  <i>Learning consistently. Building projects. Improving every day.</i>
+</p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nikhil-kumar-jha-046492298">LinkedIn</a> •
-  <a href="mailto:nikhiljha844@gmail.com">Email</a> •
-  <a href="https://x.com/Nikhiljha810210">X (Twitter)</a> •
-  <a href="https://github.com/Nikhiljha12362">GitHub</a>
+<p align="center">
+  <a href="https://github.com/Nikhiljha12362">Explore my repositories</a>
 </p>
