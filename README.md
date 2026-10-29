@@ -91,24 +91,8 @@ An educational web application developed to practise full-stack development, fro
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhiljha12362&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhiljha12362&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhiljha12362&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikhiljha12362&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-<p align="center">
-  <i>Learning consistently. Building projects. Improving every day.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nikhiljha12362">Explore my repositories</a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhiljha12362&layout=compact&theme=tokyonight)
